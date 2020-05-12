@@ -1,0 +1,16 @@
+1.1-1.2: Folder: CC_Illustrator
+Files within: 
+Poster_Page.ai
+Poster_Page_assets_from_Library_2_start.ai 
+Poster_Page_assets_from_Library_2.ai
+Folder: CC_Libraries_Ai (Illustrator Assets.cclibs and Poster Page ILL.cclibs)
+Folder: Illustrator Images (Background_Graphic_flatten.jpg and capture_pattern_start.psd)
+
+2.1-2.2: Folder: CC_InDesign
+Files within: 
+Newsletter_4Page.indd 
+Newsletter_4Page_2_start.indd 
+Newsletter_4Page_2_final.indd
+EPUB_animation.indd
+Folder: CC_Libraries_Id (InDesign Assets.cclibs and Newsletter ID.cclibs)
+Folder: InDesign_Images (Background_Graphic_Cover.jpg, gemstone.svg, Graphic_8931_JH.jpg, Graphic_9296_JH.jpg, Grpahic_9317_JH.jpg, Graphic_9337_JH.jpg, Shapes.ai)
